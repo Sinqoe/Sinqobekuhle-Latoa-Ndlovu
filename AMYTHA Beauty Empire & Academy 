@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AMYTHA Beauty Empire - Thokoza</title>
+<style>
+body{font-family:Arial;background:#fff8f0;max-width:480px;margin:0 auto;padding:0}
+.header{background:linear-gradient(135deg,#b8860b,#FFD700);color:white;padding:30px 20px;text-align:center}
+.logo{width:100px;height:100px;background:white;color:#b8860b;border-radius:50%;margin:0 auto 15px;font-size:42px;font-weight:bold;line-height:100px;border:4px solid white}
+.stats{display:flex;justify-content:space-around;background:white;margin:-20px 20px 20px;border-radius:15px;box-shadow:0 4px 15px rgba(0,0,0,0.15);padding:15px}
+.stat b{color:#b8860b;font-size:20px;display:block}
+.card{background:white;margin:12px 20px;padding:15px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.1);text-align:left}
+.vip{border-left:5px solid #FFD700;background:#fffdf0}
+.btn{display:block;background:#b8860b;color:white;text-align:center;padding:14px;margin:10px 20px;border-radius:30px;text-decoration:none;font-weight:bold}
+.btn-green{background:#25D366}
+.btn-gold{background:linear-gradient(135deg,#b8860b,#FFD700)}
+</style>
+</head>
+<body>
+
+<div class="header">
+<div class="logo">AT</div>
+<h1>AMYTHA Beauty Empire & Academy</h1>
+<p>Founder: Sinqoe | Thokoza<br>For Amyoli & Thamsanqa 💖<br>+27 74 336 3518</p>
+</div>
+
+<div class="stats">
+<div class="stat"><b>R790</b>Today</div>
+<div class="stat"><b>2</b>Clients</div>
+<div class="stat"><b>5.0</b>Stars</div>
+</div>
+
+<!-- BUYER PROFILE - This is what you asked! -->
+<div class="card vip">
+<h3>💖 BUYER PROFILE - VIP: Linda | AMY-001</h3>
+📞 0836669275<br>
+📍 1522 Nkaki St, Thokoza<br>
+💰 <b>TOTAL SPENT: R540</b> | Visits: 3<br>
+⭐ Rating: 5.0 | Last: 2026-09-23 12:55<br>
+🖼️ Photo: Linda.jpg (saved)<br>
+<small>Best Customer - Give 10% discount!</small>
+</div>
+
+<div class="card">
+<h3>BUYER PROFILE: Thando | AMY-002</h3>
+📍 1540<br>
+💰 <b>TOTAL SPENT: R250</b> | Visits: 1<br>
+<small>Last: 12:57</small>
+</div>
+
+<!-- SELLER PROFILE - This is what you asked! -->
+<div class="card" style="border:2px dashed #b8860b;text-align:center">
+<h3>🏆 SELLER PROFILE - BEST STYLIST</h3>
+<b>Sinqoe (Founder) 👑</b><br>
+Jobs: 5 | Earned: R790 | ⭐ 5.0<br>
+Phone: +27 74 336 3518<br>
+<small>Security Verified | SAPS Thokoza Protected</small><br>
+<small>Built for Amyoli & Thamsanqa 💖</small>
+</div>
+
+<a class="btn btn-green" href="https://wa.me/27743363518?text=Hi%20Sinqoe%20I%20want%20to%20book%20at%20AMYTHA%20Beauty%20Empire">📲 BOOK ON WHATSAPP</a>
+<a class="btn" href="tel:+27743363518">📞 CALL NOW - 074 336 3518</a>
+<a class="btn btn-gold" href="#">💳 PAY - YOCO / CASH</a>
+
+<div class="card" style="text-align:center;background:#f9f9f9;font-size:12px">
+<b>How to get your LIVE LINK:</b><br>
+1. Save this file as index.html<br>
+2. Go to app.netlify.com/drop<br>
+3. Drag this file there<br>
+4. You get link like: amytha-beauty.netlify.app<br>
+5. Share on WhatsApp Status!<br><br>
+🚨 Emergency: SAPS Thokoza 011 860 2300<br>
+AMYTHA Gold Security Active
+</div>
+
+</body>
+</html>
